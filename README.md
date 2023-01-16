@@ -1,3 +1,5 @@
+Dodaję to, co mam na chwilę obecną, w dalszym czasie będę się starał rozpracować to, co napisał Pan Porucznik na Teamsach
+
 function staff_training() {
 
     var participants = IR.findAll();
